@@ -70,26 +70,7 @@
 # print("Ters çevrilmiş değer:",rev)
 
 
-# 1 ci sual 
-# number1 = float(input("Birinci ededi girin:  "))
-# number2 = float(input("İkinci ededi girin:  "))
 
-# toplama_sonucu = number1 + number2
-# print("Toplama: ", netice)
-
-
-# cikarma_sonucu = number1 - number2
-# print("Çıxma: ", netice)
-
-
-# carpma_sonucu = number1 * number2
-# print("Vurma: ", netice)
-
-# if number2 != 0:
-#     bolme_sonucu = number1 / number2
-#     print("Bölme: ", bolme_sonucu)
-# else:
-#     print("Sıfıra bolunmez.")
 
 
 # 8 ci sual 
